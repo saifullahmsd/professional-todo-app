@@ -1,4 +1,5 @@
-Professional Todo App
+## Professional Todo App
+
 A modern Todo application built with React and Redux Toolkit featuring search, filtering, and local storage.
 
 https://img.shields.io/badge/React-18.2.0-blue
@@ -9,7 +10,8 @@ https://img.shields.io/badge/Vite-4.4.5-yellow
 
 ![Main View](./todo-list.png)
 
-✨ Features
+## ✨ Features
+
 ✅ Add, delete, and toggle todos
 
 🔍 Search and filter (All/Active/Completed)
@@ -20,24 +22,31 @@ https://img.shields.io/badge/Vite-4.4.5-yellow
 
 📱 Fully responsive design
 
-Quick Start
+## Quick Start
 
 git clone https://github.com/saifullahmsd/professional-todo-app.git
+
 cd professional-todo-app
+
 npm install
+
 npm run dev
 
 Visit http://localhost:3000 to view the app.
 
-Tech Stack
+## Tech Stack
 
 Frontend: React 18
+
 State Management: Redux Toolkit
+
 Build Tool: Vite
+
 Styling: CSS3
+
 Storage: LocalStorage
 
-📁 Project Structure
+## 📁 Project Structure
 
 src/
 ├── components/ # React components
@@ -46,7 +55,8 @@ src/
 └── App.jsx Main App component
 └── main.jsx # Entry point
 
-🎯 Usage
+## 🎯 Usage
+
 Add Todo: Type and press Enter or click Add
 
 Complete: Click the checkbox
@@ -57,10 +67,12 @@ Search: Use search bar to filter todos
 
 Filter: Switch between All, Active, Completed views
 
-🤝 Contributing
+## 🤝 Contributing
+
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-📝 License
+## 📝 License
+
 This project is licensed under the MIT License.
 
 Built with ❤️ using React and Redux Toolkit
