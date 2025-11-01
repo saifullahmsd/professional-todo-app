@@ -6,6 +6,12 @@ https://img.shields.io/badge/React-18.2.0-blue
 https://img.shields.io/badge/Redux_Toolkit-1.9.7-purple
 https://img.shields.io/badge/Vite-4.4.5-yellow
 
+## 🌐 Live Demo
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/professionl-todo-app/deploy-status)](https://app.netlify.com/sites/professionl-todo-app/overview)
+
+**Live Application:** [https://professionl-todo-app.netlify.app](https://professionl-todo-app.netlify.app)
+
 ## 📸 Screenshots
 
 ![Main View](./todo-list.png)
